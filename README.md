@@ -1,4 +1,4 @@
-![One Link Banner](https://github.com/OneLinkSA/fullstack-project/blob/main/Capture.PNG?raw=true)
+![One Link Banner](https://onelinksa.co.za/wp-content/uploads/2020/09/OneLink-Logo-Grey-200w.png)
 # Full Stack Dev - Take Home Project
 
 First impressions are important, second impressions are everything. So, it’s time for some
